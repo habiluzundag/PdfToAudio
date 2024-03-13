@@ -1,0 +1,1 @@
+When you run this script, it will prompt you to enter the path to the PDF file you want to convert and the desired name for the MP3 file. After conversion, the MP3 file will be saved in the same directory as the script.
